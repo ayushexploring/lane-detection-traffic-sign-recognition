@@ -1,0 +1,41 @@
+[33mcommit 63a6e7d7ba2b1a8ab301d6ad4d041ee96ba3937b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ayush Verma <ayush.k1998@gmail.com>
+Date:   Thu Jan 2 17:45:57 2020 +0530
+
+    masking canny image with region of interest
+
+[33mcommit a4c673898008bc0e62e9f46f7c41770d7627126c[m
+Author: Ayush Verma <ayush.k1998@gmail.com>
+Date:   Thu Jan 2 17:29:34 2020 +0530
+
+    defining region of interest
+
+[33mcommit b8f38e2ad13d4cbd2e7e8318532f8bd409c32007[m
+Author: Ayush Verma <ayush.k1998@gmail.com>
+Date:   Thu Jan 2 17:23:23 2020 +0530
+
+    canny edge detection
+
+[33mcommit 3a2af54a3b28ae59da535330295ca39c6b28e9ea[m
+Author: Ayush Verma <ayush.k1998@gmail.com>
+Date:   Thu Jan 2 17:22:24 2020 +0530
+
+    gaussian blur(smoothening)
+
+[33mcommit 3f00acbd537be5b42cf7952ca8ae9dd7a25183d5[m
+Author: Ayush Verma <ayush.k1998@gmail.com>
+Date:   Thu Jan 2 17:21:05 2020 +0530
+
+    grayscale conversion
+
+[33mcommit f3a567f905e95d99cdf2977c1ac487ba8b3d3f59[m
+Author: Ayush Verma <ayush.k1998@gmail.com>
+Date:   Thu Jan 2 17:19:09 2020 +0530
+
+    load image
+
+[33mcommit f1a487abba45749566d442385382241f1a7c6b84[m
+Author: Ayush Verma <ayush.k1998@gmail.com>
+Date:   Thu Jan 2 17:16:09 2020 +0530
+
+    init repository
